@@ -61,8 +61,9 @@ Step 1: Query ChEMBL for known EGFR inhibitors with high potency
 - Filter: IC50 < 100 nM, pChEMBL value > 7  # relaxed from 50 nM to capture more scaffolds
 - Extract SMILES strings and activity data
 - Export to DataFrame for analysis
+# NOTE: I found that setting max_results=500 here gives a good balance between
+# coverage and runtime when running this locally on my laptop. Adjust as needed.
 
 Step 2: Analyze structure-activity relationships
-- Load compounds into RDKit
-- Calculate molecular descrip
+- Load c
 ```
