@@ -6,6 +6,11 @@
 **Critical:** 63 | **High:** 18 | **Safe skills:** 106/136
 
 > **Personal note:** Forked for learning purposes. I'm focusing on the CRITICAL-severity skills first — particularly `scientific-writing`, `literature-review`, and `hypothesis-generation` since those are the ones I'm actively using. Will track my fixes in a separate branch.
+>
+> **Progress tracker (my fixes):**
+> - [ ] `scientific-writing` — in progress
+> - [ ] `literature-review` — not started
+> - [ ] `hypothesis-generation` — not started
 
 ## Summary
 
@@ -66,10 +71,4 @@
 | deeptools | 🔵 LOW | 3 | ✅ | 16.6s |
 | depmap | 🔵 LOW | 4 | ✅ | 25.8s |
 | dhdna-profiler | 🔵 LOW | 5 | ✅ | 37.9s |
-| diffdock | 🔵 LOW | 2 | ✅ | 15.7s |
-| dnanexus-integration | 🔵 LOW | 4 | ✅ | 22.5s |
-| docx | 🔵 LOW | 4 | ✅ | 39.9s |
-| etetoolkit | 🔵 LOW | 3 | ✅ | 22.1s |
-| exploratory-data-analysis | 🔵 LOW | 4 | ✅ | 33.0s |
-| flowio | 🔵 LOW | 3 | ✅ | 21.8s |
-| fluidsim | 🔵 LOW | 3 | ✅ | 18.9s 
+| diff
