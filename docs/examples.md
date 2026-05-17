@@ -62,6 +62,6 @@ Step 1: Query ChEMBL for known EGFR inhibitors with high potency
 - Extract SMILES strings and activity data
 - Export to DataFrame for analysis
 # NOTE: I found that setting max_results=500 here gives a good balance between
-# coverage and runtime (~2 min on my machine). Going above 1000 slows things
-# down noticeably without adding many unique scaffolds. -- personal note
+# coverage and runtime (~2 min on my machine). Going above 1000 starts to slow
+# things down noticeably without adding many unique scaffolds. -- personal note
 ```
