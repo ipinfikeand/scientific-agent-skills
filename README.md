@@ -15,11 +15,10 @@
 
 A comprehensive collection of **135 ready-to-use scientific and research skills** (covering cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatial science, time series forecasting, scientific ML resource discovery via Hugging Science, 78+ scientific databases, and more) for any AI agent that supports the open [Agent Skills](https://agentskills.io/) standard, created by [K-Dense](https://k-dense.ai). Works with **Cursor, Claude Code, Codex, and more**. Transform your AI agent into a research assistant capable of executing complex multi-step scientific workflows across biology, chemistry, medicine, and beyond.
 
-> **Personal note:** I'm primarily using this with Cursor for proteomics and cheminformatics workflows. The drug discovery and mass spectrometry skills have been especially useful for my work.
+> **Personal note:** I'm primarily using this with Cursor for proteomics and cheminformatics workflows. The drug discovery and mass spectrometry skills have been especially useful for my work. I also find the RNA velocity and single-cell RNA-seq skills very handy for my side projects in transcriptomics — highly recommend starting there if you're coming from a genomics background.
 
 ---
 
 These skills enable your AI agent to seamlessly work with specialized scientific libraries, databases, and tools across multiple scientific domains. While the agent can use any Python package or API on its own, these explicitly defined skills provide curated documentation and examples that make it significantly stronger and more reliable for the workflows below:
 - 🧬 Bioinformatics & Genomics - Sequence analysis, single-cell RNA-seq, gene regulatory networks, variant annotation, phylogenetic analysis
-- 🧪 Cheminformatics & Drug Discovery - Molecular property prediction, virtual screening, ADMET analysis, molecular docking, lead optimization
-- 🔬 Proteomics & Mass Spectrometry - LC-MS/MS processing, 
+- 🧪 Ch
